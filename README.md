@@ -9,4 +9,4 @@ Here are some pictures that were taken during the event:
 
 ![image](https://github.com/fsdkumk/IoT-Smart-Street-Light-using-ESP8266/assets/141599942/add245c5-62f1-4da9-8768-817f1010c4cc)
 
-![image](https://github.com/fsdkumk/IoT-Smart-Street-Light-using-ESP8266/assets/141599942/63d78610-9150-443b-8642-194b56680975)
+![image](https://github.com/fsdkumk/IoT-Smart-Street-Light-using-ESP8266/assets/141599942/fbbdfe77-e300-4119-b29f-65fc938ec9cf)
